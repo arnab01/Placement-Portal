@@ -1,0 +1,38 @@
+<?xml encoding="UTF-8"?>
+
+<!ELEMENT Results (Company)+>
+<!ATTLIST Results
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT Company (Companyname,roundname,studentname,rollno,status,role,
+                   offertype)>
+<!ATTLIST Company
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT Companyname (#PCDATA)>
+<!ATTLIST Companyname
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT roundname (#PCDATA)>
+<!ATTLIST roundname
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT studentname (#PCDATA)>
+<!ATTLIST studentname
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT rollno (#PCDATA)>
+<!ATTLIST rollno
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT status (#PCDATA)>
+<!ATTLIST status
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT role (#PCDATA)>
+<!ATTLIST role
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT offertype (#PCDATA)>
+<!ATTLIST offertype
+  xmlns CDATA #FIXED ''>

@@ -1,0 +1,31 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,600,400italic);
+table {
+    
+    margin-left: 30%;
+    border-collapse: collapse;
+    border-width: 5pt;
+    
+    
+}
+th{
+    border-color: white;
+    background-color: rgb(200, 192, 238);
+    border-width: 5pt;
+}
+td{
+    border-color: rgb(200, 192, 238);
+    border-width: 2pt;
+}
+td:hover{
+    background-color:pink;
+}
+th,td{
+    height: 50px;
+    width: 100px;
+    text-align: center;
+    
+}
+body{
+    font-family: "Roboto", Helvetica, Arial, sans-serif;
+    background-color: beige;
+}

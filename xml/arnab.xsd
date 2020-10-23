@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="Results">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="Company"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Company">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="Companyname"/>
+        <xs:element ref="roundname"/>
+        <xs:element ref="studentname"/>
+        <xs:element ref="rollno"/>
+        <xs:element ref="status"/>
+        <xs:element ref="role"/>
+        <xs:element ref="offertype"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Companyname" type="xs:NCName"/>
+  <xs:element name="roundname" type="xs:string"/>
+  <xs:element name="studentname" type="xs:NCName"/>
+  <xs:element name="rollno" type="xs:NCName"/>
+  <xs:element name="status" type="xs:NCName"/>
+  <xs:element name="role" type="xs:string"/>
+  <xs:element name="offertype" type="xs:NCName"/>
+</xs:schema>

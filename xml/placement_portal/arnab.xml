@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<!DOCTYPE schedules SYSTEM "arnab.dtd">
+<?xml-stylesheet type="text/xsl" href="arnab.xsl" ?>
+
+
+<Results xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="arnab.xsd">
+
+<Company>
+<Companyname> Cisco </Companyname>
+<roundname>Aptitude and Coding </roundname>
+<studentname> Arnab </studentname>
+<rollno> cb.en.u4cse17309</rollno>
+<status> selected </status>
+<role> None </role>
+<offertype> None </offertype>
+</Company>
+
+<Company>
+<Companyname> Cisco </Companyname>
+<roundname>Aptitude and Coding </roundname>
+<studentname> Anjali </studentname>
+<rollno> cb.en.u4cse17307</rollno>
+<status> selected </status>
+<role> None </role>
+<offertype> None </offertype>
+</Company>
+
+<Company>
+<Companyname> Cisco </Companyname>
+<roundname>Aptitude and Coding </roundname>
+<studentname> Aradhana </studentname>
+<rollno> cb.en.u4cse17308</rollno>
+<status> rejected </status>
+<role> None </role>
+<offertype> None </offertype>
+</Company>
+
+<Company>
+<Companyname> Cisco </Companyname>
+<roundname>Interview </roundname>
+<studentname> Arnab </studentname>
+<rollno> cb.en.u4cse17309</rollno>
+<status> rejected </status>
+<role> None </role>
+<offertype> None </offertype>
+</Company>
+
+<Company>
+<Companyname> Cisco </Companyname>
+<roundname>Interview </roundname>
+<studentname> Anjali </studentname>
+<rollno> cb.en.u4cse17307</rollno>
+<status> selected </status>
+<role> None </role>
+<offertype> None </offertype>
+</Company>
+
+
+<Company>
+<Companyname> Cisco </Companyname>
+<roundname>Selected </roundname>
+<studentname> Anjali </studentname>
+<rollno> cb.en.u4cse17307</rollno>
+<status> selected </status>
+<role> SR engineer </role>
+<offertype> FTE </offertype>
+</Company>
+
+
+</Results>
