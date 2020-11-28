@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+D:\Btech\SEM7\NCP\PLACEMENT_PORTAL\last_review\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3004739994.index
+2917945993.index
+3576236292.index
+193247539.index
+1568136337.index
+1751230238.index
