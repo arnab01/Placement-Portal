@@ -1,2 +1,3 @@
 # Placement-Portal
-An interactive full fledged college placement portal
+Different portal modules impemented using various concepts of Net Centric Programming.
+
