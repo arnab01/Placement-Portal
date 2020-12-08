@@ -1,3 +1,2 @@
 # Placement-Portal
-Different portal modules impemented using various concepts of Net Centric Programming.
-
+An experiemental recruitment office portal using basic Net Centric Programming concepts. 
